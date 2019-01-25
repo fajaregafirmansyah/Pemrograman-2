@@ -1,21 +1,33 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package tugas1;
 
-/**
- *
- * @author ASUS
- */
+import java.util.Scanner;
+
 public class HitungLuas {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void luasPersegiPanjang() {
+        int panjang;
+        int lebar;
+        int luas;
+        Scanner masukkan = new Scanner(System.in);
+
+        System.out.println("=====================================================");
+        System.out.println("Program menghitung luas persegi panjang dan lingkaran");
+        System.out.println("=====================================================");
+        System.out.println("");
+
+        System.out.print("Masukan panjang(cm) : ");
+        panjang = masukkan.nextInt();
+
+        System.out.print("Masukan Lebar(cm)   : ");
+        lebar = masukkan.nextInt();
+
+        luas = panjang * lebar;
+
+        System.out.println("Luas dari persegi panjang dari panjang " + panjang + " cm dan lebar " + lebar + " cm adalah " + luas);
     }
-    
+
+    public static void main(String[] args) {
+        luasPersegiPanjang();
+    }
+
 }
