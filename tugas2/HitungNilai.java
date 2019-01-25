@@ -59,7 +59,7 @@ public class HitungNilai {
 
         System.out.println("Anda mendapatkan nilai " + nilai2 + " maka " + hasil2);
         System.out.println("");
-        System.out.println("");
+        
     }
 
 }

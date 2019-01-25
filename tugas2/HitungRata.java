@@ -33,6 +33,7 @@ public class HitungRata {
         }
 
         System.out.println("Hasil nilai rata-rata : " + nilaiRata + " " + smileyFace);
+        
     }
 
 }
