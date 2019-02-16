@@ -14,7 +14,7 @@ public class CircleActivity {
     Circle lingkaran2 = new Circle();
     String[] hasil;
     String[] hasil2;
-    static int jarak_lingkaran;
+    int jarak_lingkaran;
 
     public CircleActivity() {
         this.input = new Scanner(System.in);
@@ -28,6 +28,8 @@ public class CircleActivity {
         lingkaran1.setX(Integer.parseInt(hasil[0]));
         lingkaran1.setY(Integer.parseInt(hasil[1]));
         lingkaran1.setR(Integer.parseInt(hasil[2]));
+        
+        System.out.println("");
     }
 
     public void lingkaran2() {
@@ -38,6 +40,8 @@ public class CircleActivity {
         lingkaran2.setX(Integer.parseInt(hasil2[0]));
         lingkaran2.setY(Integer.parseInt(hasil2[1]));
         lingkaran2.setR(Integer.parseInt(hasil2[2]));
+        
+        System.out.println("");
     }
 
     public void salah() {
