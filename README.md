@@ -4,6 +4,7 @@ Pemrograman 2 merupakan proyek repository untuk kebutuhan mata kuliah pemrograma
 ---
 ##### Fajar Ega Firmansyah
 ##### Sistem Informasi
+##### STMIK AMIK BANDUNG
 
 
 ---
@@ -31,6 +32,9 @@ Pemrograman 2 merupakan proyek repository untuk kebutuhan mata kuliah pemrograma
 | OOP Mobil   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/OOPMobil.JPG)  | 
 | CRUD Buku   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/OOPBukuAalamat.JPG)  | 
 | Abstract Class   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/HasilTugasAbstract.PNG)  | 
+| 2 Buah Lingkaran   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas6.PNG)  | 
+| 3 Buah Bilangan Terbesar   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas7.PNG)  | 
+| Gaji Karyawan   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas8.PNG)  | 
 
 ---
 > Semoga bermanfaat.... 
