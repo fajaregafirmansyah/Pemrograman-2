@@ -15,6 +15,9 @@ Pemrograman 2 merupakan proyek repository untuk kebutuhan mata kuliah pemrograma
 - [x] Tugas 3 - Program OOP mobil alphard
 - [x] Tugas 4 - Program Create Update Read Delete(CRUD) buku alamat
 - [x] Tugas 5 - Program Hitung Luas dari lingkaran (abstract class)
+- [x] Tugas 6 - Program Menentukan 2 buah lingkaran
+- [x] Tugas 7 - Program Mencari 3 nilai terbesar dari 8 buah bilangan
+- [x] Tugas 8 - Program Gaji Karyawan
 - [x] Menerapkan UI/UX di dalam console
 
 ---
