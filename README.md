@@ -36,7 +36,7 @@ Pemrograman 2 merupakan proyek repository untuk kebutuhan mata kuliah pemrograma
 | 2 Buah Lingkaran   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas6.PNG)  | 
 | 3 Buah Bilangan Terbesar   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas7.PNG)  | 
 | Gaji Karyawan   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas8.PNG)  | 
-| Program I/O   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas8.PNG)  | 
+| Program I/O   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/HasilTugas9.PNG)  | 
 
 ---
 > Semoga bermanfaat.... 
