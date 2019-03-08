@@ -19,6 +19,7 @@ Pemrograman 2 merupakan proyek repository untuk kebutuhan mata kuliah pemrograma
 - [x] Tugas 6 - Program Menentukan 2 buah lingkaran
 - [x] Tugas 7 - Program Mencari 3 nilai terbesar dari 8 buah bilangan
 - [x] Tugas 8 - Program Gaji Karyawan
+- [x] Tugas 9 - Program I/O Buku Alamat
 - [x] Menerapkan UI/UX di dalam console
 
 ---
@@ -35,6 +36,7 @@ Pemrograman 2 merupakan proyek repository untuk kebutuhan mata kuliah pemrograma
 | 2 Buah Lingkaran   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas6.PNG)  | 
 | 3 Buah Bilangan Terbesar   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas7.PNG)  | 
 | Gaji Karyawan   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/Hasiltugas8.PNG)  | 
+| Program I/O   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/HasilTugas9.PNG)  | 
 
 ---
 > Semoga bermanfaat.... 
