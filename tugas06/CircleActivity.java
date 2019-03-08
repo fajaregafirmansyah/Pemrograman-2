@@ -1,4 +1,4 @@
-package tugas6;
+package tugas06;
 
 import java.util.Scanner;
 

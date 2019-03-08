@@ -1,4 +1,4 @@
-package tugas4;
+package tugas04;
 
 public class EntryBukuAlamat {
 

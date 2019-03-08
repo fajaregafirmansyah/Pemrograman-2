@@ -1,4 +1,4 @@
-package tugas7;
+package tugas07;
 
 import java.util.Scanner;
 

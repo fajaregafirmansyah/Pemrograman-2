@@ -1,4 +1,4 @@
-package tugas5;
+package tugas05;
 
 /**
  *
