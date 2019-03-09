@@ -251,26 +251,11 @@ public class FormBukuAlamat extends javax.swing.JFrame {
 
     private void btnHapusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHapusActionPerformed
         // TODO add your handling code here:
-//        txtNama.setText("");
-//        txtAlamat.setText("");
-//        txtTelepon.setText("");
-//        txtEmail.setText("");
         Hapus();
     }//GEN-LAST:event_btnHapusActionPerformed
 
     private void btntambahActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btntambahActionPerformed
         // TODO add your handling code here:
-//        if (txtNama.getText().equals("")) {
-//            JOptionPane.showMessageDialog(null, "Nama tidak boleh kosong. Silahkan isi dengan benar", "Peringatan", JOptionPane.WARNING_MESSAGE);
-//        } else if (txtAlamat.getText().equals("")) {
-//            JOptionPane.showMessageDialog(null, "Alamat tidak boleh kosong. Silahkan isi Alamat dengan benar", "Peringatan", JOptionPane.WARNING_MESSAGE);
-//        } else if (txtTelepon.getText().equals("")) {
-//            JOptionPane.showMessageDialog(null, "Telepon tidak boleh kosong. Silahkan isi Telepon dengan benar", "Peringatan", JOptionPane.WARNING_MESSAGE);
-//        } else if (txtEmail.getText().equals("")) {
-//            JOptionPane.showMessageDialog(null, "Email tidak boleh kosong. Silahkan isi Email dengan benar", "Peringatan", JOptionPane.WARNING_MESSAGE);
-//        } else {
-//            JOptionPane.showMessageDialog(null, "Data Berhasil Di Simpan!");
-//        }
         Simpan();
     }//GEN-LAST:event_btntambahActionPerformed
 
