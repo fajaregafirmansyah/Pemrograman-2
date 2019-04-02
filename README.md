@@ -10,6 +10,8 @@ Pemrograman 2 merupakan proyek repository untuk kebutuhan mata kuliah pemrograma
 ---
 **Daftar :**
 
+- [x] Soal 1 UTS - Program iterasi
+- [x] Soal 2 UTS - Program bangun ruang
 - [x] Tugas 1 - Program hitung luas di java
 - [x] Tugas 2 - Program menghitung nilai mahasiswa
 - [x] Tugas 2 - Program menghitung rata-rata nilai
@@ -28,6 +30,8 @@ Pemrograman 2 merupakan proyek repository untuk kebutuhan mata kuliah pemrograma
 ---
 |  |  | 
 | ----- | --- | 
+| Soal 1 UTS   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/hasiluts1.PNG)  | 
+| Soal 2 UTS   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/hasiluts2.PNG)  | 
 | HitungLuas   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/HitungLuas.JPG)  | 
 | HitungNilai   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/HitungNilai.JPG)  | 
 | HitungRata   | ![Gambar aplikasi](https://github.com/fajaregafirmansyah/Pemrograman-2/blob/master/Screnshoot/HitungRata.JPG)  | 
